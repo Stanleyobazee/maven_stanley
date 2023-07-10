@@ -1,2 +1,2 @@
 # maven_stanley
-my second test
+my second test.
